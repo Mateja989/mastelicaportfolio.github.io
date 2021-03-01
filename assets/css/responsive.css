@@ -1,0 +1,328 @@
+@media screen and (max-width: 1390px){
+    .miniblok{
+        width: 27%;
+        margin-bottom: 20px
+    }
+    .miniblok i{
+        margin: 5px;
+    }
+    .miniblok h3{
+        margin: 5px;
+        font-size: 14px;
+    }
+    .miniblok h5{
+        padding: 10px;
+    }
+    #me img{
+        border: 5px solid #6a68a8;
+    }
+}
+@media screen and (max-width: 1025px){
+    header{
+        border-radius: 30px;
+        padding: 16px;
+    }
+    nav ul li{
+        font-size: 16px;
+    }
+    #logo h1{
+        font-size: 24px;
+    }
+    #header-text h2{
+        font-size: 24px;
+    }
+    #header-text p{
+        font-size: 14px;
+    }
+
+    .block i {
+        margin: 10px;
+        font-size: 40px;
+    }
+    .block p{
+        padding: 5px;
+        font-size: 12px;
+    }
+    .miniblok{
+        width: 27%;
+        margin-bottom: 20px;
+    }
+    .flex-container{
+        align-items: center;
+    }
+    .miniblok i{
+        margin: 5px;
+    }
+   .miniblok h3{
+        margin: 5px;
+        font-size: 12px;
+    }
+
+    #about h2 {
+        font-size: 18px;
+        padding: 15px;
+    }
+    #about p {
+        margin-top: 5px;
+        font-size: 12px;
+    }
+    .projects {
+        margin-bottom: 25px;
+    }
+    #logovanje {
+        width: 80%;
+    }
+    .social ul li {
+        padding: 5px;
+        font-size: 20px;
+    }
+    .social p {
+        padding: 5px;
+        font-size: 20px;}
+    #logovanje {
+            width: 80%;
+        }
+    #ime, #telefon, #mail, #mssg {
+        padding: 10px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 935px){
+    header{
+        top: 5%;
+    }
+    #me img{
+        border:5px solid #6a68a8;
+    }
+}
+@media screen and (max-width: 852px){
+    header {
+        border-radius: 25px;
+        padding: 10px;
+    }
+    #logo h1 {
+        font-size: 20px;
+    }
+    nav ul li {
+        font-size: 14px;
+    }
+    #header-text h2 {
+        font-size: 18px;
+    }
+    #header-text p{
+        font-size: 12px;
+    }
+    .block {
+        width: 80%;
+        margin-bottom: 30px;
+        padding: 15px;
+    }
+    .block i {
+        margin: 5px;
+        font-size: 35px;
+    }
+    .block h3{
+        font-size: 16px;
+    }
+    .block p{
+        font-size: 10px;
+    }
+    .centar{
+        justify-content: center;
+    }
+   #about h2 {
+        font-size: 16px;
+        padding: 10px;
+    }
+    #about p {
+        margin-top: 0px;
+        font-size: 10px;
+    }
+    #me {
+        width: 35%;
+    }
+    #me img{
+        width: 90%;
+    }
+
+    .miniblok h4 {
+        font-size: 16px;
+        margin: 10px;
+    }
+    .miniblok i {
+        font-size: 35px;
+    }
+    .projects {
+        width: 80%;
+    }
+    .social p {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 650px){
+    header{
+        justify-content: center;
+    }
+    .miniblok {
+        width: 40%;
+    }
+    .miniblok i {
+        font-size: 25px;
+    }
+    .miniblok h4 {
+        font-size: 14px;
+    }
+    #work p{
+        font-size: 10px;
+    }
+    #about h2 {
+        font-size: 16px;
+        padding: 10px;
+    }
+    #about p {
+        margin-top: 0px;
+        font-size: 10px;
+    }
+    #about{
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+    #me {
+        width: 45%;
+    }
+    #me img{
+        width: 92%;
+    }
+    .centar2{
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 426px){
+    header{
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        top: 3%;
+        left: 3%;
+    }
+    #logo h1 {
+        font-size: 18px;
+        padding: 2px;
+    }
+    nav ul li {
+        font-size: 12px;
+    }
+    #header-text{
+        width: 100%;
+        margin-top: 30%;
+        margin-bottom: 20%;
+    }
+    #header-text p {
+        font-size: 10px;
+    }
+    #header-text h2 {
+        font-size: 14px;
+        padding: 5px;
+    }
+    #work h3,.header2 h2{
+        font-size: 16px;
+    }
+    .block h3 {
+        font-size: 14px;
+    }
+    .block p {
+        font-size: 10px;
+    }
+    .block i {
+        font-size: 28px;
+    }
+    .miniblok {
+        width: 40%;
+    }
+    .miniblok i {
+        font-size: 28px;
+    }
+    .miniblok h4 {
+        font-size: 14px;
+    }
+    #me {
+        width: 50%;
+    }
+    #about {
+        width: 90%;
+        text-align: center;
+    }
+    #about p{
+        font-size: 12px;
+    }
+    .projects{
+        width: 90%;
+    }
+    #logovanje{
+        width: 90%;
+    }
+    footer i{
+        font-size: 16px;
+    }
+    footer p{
+        font-size: 16px;
+    }
+    .centar2{
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 376px){
+    .miniblok {
+        width: 90%;
+    }
+    #logo h1 {
+        font-size: 16px;
+    }
+    nav ul li {
+        font-size: 10px;
+        margin-right: 10px;
+    }
+    #header-text h2 {
+        font-size: 17px;
+    }
+    #work h3,.header2 h2,#about h2{
+        font-size: 16px;
+    }
+    .projects {
+        width: 100%;
+    }
+    #logovanje{
+        width: 100%;
+    }
+    #me{
+        width: 60%;
+        margin-bottom: 10px;
+    }
+    #about{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 321px){
+    header{
+        left: 1%;
+    }
+    #header-text h2 {
+        font-size: 14px;
+    }
+    #work h3,.header2 h2,#about h2{
+        font-size: 14px;
+    }
+    #about p{
+        font-size: 10px;
+    }
+    #logovanje input{
+        font-size: 10px;
+    }
+    .social ul li {
+        font-size: 20px;
+    }
+    .social p{
+        font-size: 12px;
+    }
+}
